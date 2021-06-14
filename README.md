@@ -7,37 +7,37 @@ To accomplish this, we used a common set of data and selected six different mach
 Below is a list of each algorithm that was used, along with a screenshot of the results. 
 
 * RandomOverSampler
-[RandomOverSampler](Resources/RandomOversampler.PNG)
+[RandomOverSampler](https://github.com/jbalooshie/Credit_Risk_Analysis/blob/main/Resources/RandomOversampler.PNG)
 	* RandomOverSampler received an accuracy score of 64.9%. 
 	* The precision for high-risk applicants was 1%, and for low-risk applicants was 100%.  
 	* The recall score of 73% for high-risk applicants and 57% for low-risk applicants.
 
 * SMOTE
-[SMOTE](Resources/SMOTE.PNG)
+[SMOTE](https://github.com/jbalooshie/Credit_Risk_Analysis/blob/main/Resources/SMOTE.PNG)
 	* SMOTE received an accuracy score of 65.8%.
 	* The precision for high-risk applicants was 1%, and for low-risk applicants was 100%. 
 	* The recall scores for both categories were similar, at 63% for high-risk applicants and 68% for low-risk applicants.
 
 * ClusterCentroids
-[ClusterCentroids](Resources/ClusterCentroids.PNG)
+[ClusterCentroids](https://github.com/jbalooshie/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids.PNG)
 	* ClusterCentroids received an accuracy score of 65.8%. 
 	* The precision for high-risk applicants was 1%, and for low-risk applicants was 100%. 
 	* The recall score for high-risk applicants was 69%, and for low-risk applicants was 40%. 
 
 * SMOTEENN
-[SMOTEENN](Resources/SMOTEENN.PNG)
+[SMOTEENN](https://github.com/jbalooshie/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.PNG)
 	* SMOTEENN received an accuracy score of 54.4%. 
 	* The precision for high-risk applicants was 1%, and for low-risk applicants was 100%. 
 	* The recall score for high-risk applicants was 57%, and for low-risk applicants was 72%. 
 
 * BalancedRandomForests
-[BalancedRandomForests](Resources/BalancedRandomForests.PNG)
+[BalancedRandomForests](https://github.com/jbalooshie/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForests.PNG)
 	* BalancedRandomForests received an accuracy score of 77.3%.
 	* The precision for high-risk applicants was 3%, and for low-risk applicants was 100%. 
 	* The recall score for high-risk applicants was 66%, and for low-risk applicants was 88%. 
 
 * EasyEnsembleClassifier
-[EasyEnsembleClassifier](Resources/EasyEnsembleClassifier.PNG)
+[EasyEnsembleClassifier](https://github.com/jbalooshie/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier.PNG)
 	* EasyEnsembleClassifier received an accuracy score of 93.2%. 
 	* The precision for high-risk applicants was 9% and for low-risk applicants was 100%. 
 	* The recall score for high-risk applicants was 92% and for low-risk applicants was 94%. 
