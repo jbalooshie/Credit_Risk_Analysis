@@ -1,7 +1,9 @@
 # Overview of the analysis
-The purpose of this analysis is to evaluate the effectiveness of different supervised machine learning algorithms to predict risk. Identifying an effective algorithm can help create a quicker and more reliable lending experience. It can also assist with more accurately identifying ideal loan candidates, which in turn will reduce default rates. 
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 17 Challenge. The purpose of this analysis is to evaluate the effectiveness of different supervised machine learning algorithms to predict credit risk. Identifying an effective algorithm can help create a quicker and more reliable lending experience. It can also assist with more accurately identifying ideal loan candidates, which in turn will reduce default rates. 
 
-To accomplish this, we used a common set of data and selected six different machine learning models. Each model was trained on the data, and the results from each one was compared. Based on the balanced accuracy precision, and recall scores of each model, we will make a recommendation on which (if any) is best suited for the task. 
+To accomplish this, we used a common set of data and selected six different machine learning models. Each model was trained on the data, and the results from each one were compared. Based on the balanced accuracy precision and recall scores of each model, we will make a recommendation on which (if any) is best suited for the task. 
+
+11 DEC 2022 - Updated Readme to fix some typos. 
 
 # Results
 Below is a list of each algorithm that was used, along with a screenshot of the results. 
